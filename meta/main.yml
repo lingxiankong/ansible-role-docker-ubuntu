@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: Lingxian Kong
+  description: Role for installing docker on Ubuntu.
+  company: Catalyst Cloud Ltd.
+  license: Apache 2.0
+  min_ansible_version: 2.7
+  platforms:
+    - name: Ubuntu
+      versions:
+        - xenial
+        - bionic
+  galaxy_tags:
+    - docker
+    - development
+dependencies: []
